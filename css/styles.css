@@ -4,3 +4,8 @@ h1 {
   font-size: 4em;
   font-family: fantasy;
 }
+h3 {
+  color:Purple;
+  font-size: 3em;
+  font-family: monospace;
+}
